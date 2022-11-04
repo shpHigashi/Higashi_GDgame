@@ -95,5 +95,5 @@ void PlayerCube::update()
 void PlayerCube::draw()
 {
 	DrawRotaGraph(getCenterX(), getCenterY(), 1, m_angle, m_handle, true, false);
-    //DrawBox(m_pos.x, m_pos.y, getRight(), getBottom(), GetColor(255, 255, 255), false);
+    DrawBox(m_pos.x, m_pos.y, getRight(), getBottom(), GetColor(255, 255, 255), false);
 }

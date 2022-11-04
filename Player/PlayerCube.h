@@ -20,4 +20,4 @@ public:
 	void update();
 	// ƒvƒŒƒCƒ„[‚Ì•`‰æˆ—
 	void draw();
-};
+}; 

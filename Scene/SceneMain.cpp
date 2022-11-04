@@ -120,7 +120,7 @@ void SceneMain::update()
 	m_player.update();
 
 	// 当たり判定チェック処理
-	checkCollision();
+	//checkCollision();
 }
 
 // 毎フレームの描画
